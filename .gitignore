@@ -1,2 +1,12 @@
 *.pt
+*.ipynb
 *.mp4
+*.zip
+*.rar
+*.avi
+*.ipynb
+/runs
+/data
+/labels
+/images
+/whole-data
